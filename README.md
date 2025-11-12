@@ -145,8 +145,8 @@ A dedicated conversion-focused landing page was designed to demonstrate:
 
 ## Landing Page:
 👉 Digitoil Landing Page
-### https://javidhf.wixsite.com/digitoil 
-<img width="665" height="88" alt="image" src="https://github.com/user-attachments/assets/62b8fb9f-8634-4ab2-93c8-b5e6bf34180c" />
+### [https://javidhf.wixsite.com/digitoil 
+<img width="665" height="88" alt="image" src="https://github.com/user-attachments/assets/62b8fb9f-8634-4ab2-93c8-b5e6bf34180c" />](https://javidhf.wixsite.com/digitoil)
 
 ## 📊 Expected Business Impact
 | **Focus Area**            | **Expected Outcome**                          |
